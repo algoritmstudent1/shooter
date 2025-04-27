@@ -1,5 +1,6 @@
 from pygame import *
 mixer.init()
+#переменные для картинок
 img_boss = 'isometric.png'
 img_bullet = 'bullet.png'
 img_enemy = "ufo.png" # враг
